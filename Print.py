@@ -1,0 +1,7 @@
+print("My name is Sujay Singh.")
+print("My father name is MR.Gauri Shankar Singh.")
+print("My mother name is MRS.Nisha Singh.")
+print("My brother name is Saksham Singh.")
+print("I study in grade 8.")
+print("I study in O.P. Jindal School,Raigarh C.G.")
+print("I am 13 years old.")
