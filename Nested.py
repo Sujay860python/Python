@@ -1,9 +1,5 @@
-medical_cause=input("Did you have a medical cause (Y/N:)").strip().upper()
-if medical_cause=='Y':
-    print("You are Allowed")
-else:
-    atten=int(input("Enter the attendance:"))
-    if atten >=75:
-        print("Allowed")
-    else:
-        print("Not Allowed")
+
+for i in range(1,5):
+    for j in range (1,11):
+        print(j,end=" ")
+    print()
